@@ -1,0 +1,74 @@
+.second-container-app {
+  display: none;
+}
+
+.goBack {
+  display: flex;
+  justify-content: space-between;
+  padding: 3vw;
+}
+
+.goBack img {
+  width: 15vw;
+}
+
+.goBack a {
+  text-decoration: none;
+  padding: 1vw 2vw;
+  font-size: 1.5vw;
+  background-color: #F00;
+  border-radius: 5px;
+  color: white;
+}
+
+.fa-redo {
+  margin-right: 1vw;
+}
+
+.goBack a:hover .fa-redo {
+  animation: redoRotate 1.3s infinite;
+}
+
+.videos-container {
+  display: flex;
+  justify-content: center;
+}
+
+.videos-container iframe {
+  width: 68vw;
+  height: 68vh;
+  padding: 1vw;
+  background-color: #1a1a19;
+}
+
+.recent-videos {
+  padding-top: 5vw;
+  padding-bottom: 1vw;
+}
+
+.recent-videos h3 {
+  color: #fff;
+  font-size: 1.5vw;
+  margin-left: 5vw;
+  margin-bottom: 2vw;
+}
+
+.recent-videos ul {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  grid-column-gap: 2vw;
+  grid-row-gap: 2vw;
+  justify-content: center;
+  list-style: none;
+}
+
+.recent-videos ul li {
+  padding: .5vw;
+  background-color: #1a1a19;
+}
+
+.recent-videos ul li iframe {
+  background-color: #201F1F;
+  width: 17vw;
+  height: 22vh;
+}
