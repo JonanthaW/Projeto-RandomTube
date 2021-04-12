@@ -8,5 +8,7 @@ Gere aleatóriamente vídeos públicos do youtube da sua própria API, utilizand
 
 ### Tela da aplicação
 
-![image](https://github.com/JonanthaW/Projeto-RandomTube/blob/main/assets/example1.jpg)
-![image](https://github.com/JonanthaW/Projeto-RandomTube/blob/main/assets/example2.gif)
+<p align="center">
+  <img src="https://github.com/JonanthaW/Projeto-RandomTube/blob/main/assets/example1.jpg">
+  <img src="https://github.com/JonanthaW/Projeto-RandomTube/blob/main/assets/example2.gif">
+</p>
