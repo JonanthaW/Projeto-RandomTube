@@ -11,7 +11,7 @@ Gere aleatóriamente vídeos públicos do youtube utilizando sua própria API.
 * _JS_
 * _CSS_
 
-#### :bulb: Tela da aplicação
+### :bulb: Tela da aplicação
 
 <p align="center">
   <img src="https://github.com/JonanthaW/Projeto-RandomTube/blob/main/assets/example1.jpg">
