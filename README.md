@@ -4,9 +4,14 @@
 
 ## :rocket: Sobre a página
 
-Gere aleatóriamente vídeos públicos do youtube da sua própria API, utilizando **HTML, JS, CSS**.
+Gere aleatóriamente vídeos públicos do youtube utilizando sua própria API.
 
-### Tela da aplicação
+#### :wrench: Techs utilizadas:
+* _HTML_
+* _JS_
+* _CSS_
+
+#### :bulb: Tela da aplicação
 
 <p align="center">
   <img src="https://github.com/JonanthaW/Projeto-RandomTube/blob/main/assets/example1.jpg">
