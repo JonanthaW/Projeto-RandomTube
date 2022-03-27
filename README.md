@@ -17,3 +17,11 @@ Gere aleatóriamente vídeos públicos do youtube utilizando sua própria API.
   <img src="https://github.com/JonanthaW/RandomTube/blob/main/assets/example1.jpg">
   <img src="https://github.com/JonanthaW/RandomTube/blob/main/assets/example2.gif">
 </p>
+
+### :computer: Baixando o conteúdo:
+
+<p>Feel free to download this repository and use it however you like. </p>
+
+```bash
+$ git clone https://github.com/JonanthaW/RandomTube.git
+```
