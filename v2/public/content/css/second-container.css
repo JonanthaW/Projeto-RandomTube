@@ -1,0 +1,27 @@
+.second-container-app {
+    display: none;
+    padding: 2vw;
+    height: inherit;
+    width: inherit;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: .5vw;
+    list-style: none;
+}
+
+.container li {
+    width: 25vw;
+    height: 30vh;
+    border: .2vw solid black;
+}
+
+li iframe {
+    width: inherit;
+    height: inherit;
+}

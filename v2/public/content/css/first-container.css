@@ -1,0 +1,49 @@
+.first-container-app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1vw;
+}
+
+.first-container-app a {
+  text-decoration: none;
+  padding: 1vw 2vw;
+  font-size: 1.5vw;
+  background-color: #F00;
+  border-radius: 10vw;
+  color: white;
+}
+
+.logo-container img {
+  width: 5vw;
+}
+
+.fa-redo {
+  margin-right: 1vw;
+}
+
+.first-container-app a:hover .fa-redo {
+  animation: redoRotate 1.3s infinite;
+}
+
+@keyframes redoRotate {
+  100% {transform: rotate(360deg);}
+}
+
+@media only screen and (max-width: 768px) {
+
+  .first-container-app a {
+  	padding: 3vw 12vw;
+  	font-size: 7vw;
+    margin-top: 10vw;
+  }
+
+  .fa-redo {
+    margin-right: 5vw;
+  }
+
+  .logo-container img {
+    width: 85vw;
+  }
+}

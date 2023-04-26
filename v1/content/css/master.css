@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #0c0c0c;
+    width: 100vw;
+    height: 100vh ;
+}
+
+main {
+  background-image: url("../../assets/img/background.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+}

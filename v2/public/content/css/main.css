@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+ }
+
+ body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #cacaca;
+    padding: 2vw;
+    overflow-x: hidden;
+ }
+
+.encoder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #cacaca;
+    padding: 2vw;
+    overflow-x: hidden;
+}
