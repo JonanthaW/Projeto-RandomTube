@@ -3,6 +3,7 @@
     padding: 2vw;
     height: inherit;
     width: inherit;
+    flex-direction: column;
 }
 
 .container {
@@ -15,13 +16,21 @@
     list-style: none;
 }
 
-.container li {
+.container iframe {
     width: 25vw;
     height: 30vh;
     border: .2vw solid black;
 }
 
-li iframe {
-    width: inherit;
-    height: inherit;
+#generate {
+    color: white;
+    background: #F00;
+    padding: 1vw;
+    border-radius: 10vw;
+    margin: 2vw;
+    font-size: 1vw;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
 }

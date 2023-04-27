@@ -9,10 +9,11 @@
 .first-container-app a {
   text-decoration: none;
   padding: 1vw 2vw;
-  font-size: 1.5vw;
+  font-size: 1.2vw;
   background-color: #F00;
   border-radius: 10vw;
   color: white;
+  font-weight: bold;
 }
 
 .logo-container img {
